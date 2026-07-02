@@ -16,7 +16,7 @@ Base = declarative_base()
 
 # Connect to MySQL database
 engine = create_engine(
-    "mysql+pymysql://root:karu@localhost/college_db_orm",
+    "mysql+pymysql://root:Vinoth@localhost/college_db_orm",
     echo=True          # Prints SQL queries in the terminal
 )
 
