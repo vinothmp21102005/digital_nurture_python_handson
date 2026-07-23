@@ -23,10 +23,7 @@ nav ul{
     margin-right: 10px;
     
 }
-nav ul:hover{
-    text-decoration: underline;
-    transform: scale(1.1);
-}
+
 #hero{
     text-align: center;
     padding: 30px;
@@ -42,7 +39,7 @@ nav ul:hover{
     background-color: crimson;
     color: whitesmoke;
 }
-.course-class{
+.course-card{
     padding: 10px;
     border: 2px;
     margin: 20px;
